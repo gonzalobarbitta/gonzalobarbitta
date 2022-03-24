@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+I'm Gonzalo, a Software Engineer from Uruguay passionate about crafting products and helping businesses achieve their goals through great software.
+
+- 🔭 Currently working as a Team Leader at [UruIT](https://github.com/UruIT)
+- :computer: Skilled with Microsoft Stack (.NET framework/Core) and SQL Server.
+- 🌐 Experienced with different libraries/frameworks for the frontend such as Angular and ReactJs.
+- :cloud: AWS, Kubernetes, Terraform
+- ⚡GitLab CI/CD for achieving a sustainable development 
+
 <!--
 **gonzalobarbitta/gonzalobarbitta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
